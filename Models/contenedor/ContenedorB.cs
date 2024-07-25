@@ -1,0 +1,41 @@
+﻿namespace CtrApp8.Models.contenedor
+{
+    public class ContenedorB
+    {
+
+        public string f01 { get; set; }
+        public string f02 { get; set; }
+        public string f03 { get; set; }
+        public string f04 { get; set; }
+        public string f05 { get; set; }
+        public string f06 { get; set; }
+        public string f07 { get; set; }
+        public string f08 { get; set; }
+        public string f09 { get; set; }
+        public string f10 { get; set; }
+        public string f11 { get; set; }
+        public string f12 { get; set; }
+        public string f13 { get; set; }
+        public string f14 { get; set; }
+        public string f15 { get; set; }
+        public string f16 { get; set; }
+        public string f17 { get; set; }
+        public string f18 { get; set; }
+        public string f19 { get; set; }
+        public string f20 { get; set; }
+        public string f21 { get; set; }
+        public string f22 { get; set; }
+        public string f23 { get; set; }
+        public string f24 { get; set; }
+        public string f25 { get; set; }
+        public string f26 { get; set; }
+        public string f27 { get; set; }
+        public string f28 { get; set; }
+        public string f29 { get; set; }
+        public string f30 { get; set; }
+        public string f31 { get; set; }
+        public string f32 { get; set; }
+
+
+    }
+}

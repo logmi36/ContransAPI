@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\CtrApp8\CtrApp8\bin\Debug\net6.0\Images\vehiculo\90x90\000000.jpg
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at CtrApp8.Helpers.ImgConv.ImageToString(String file, String code, String size) in C:\Users\pc\source\repos\CtrApp8\CtrApp8\Helpers\ImgConv.cs:line 46
+   at CtrApp8.Data.VehiculoDA.Vehiculo_Sel(DocItem item) in C:\Users\pc\source\repos\CtrApp8\CtrApp8\Data\VehiculoDA.cs:line 73
+System.Drawing.Common
+System.Collections.ListDictionaryInternal
+-2147024894
